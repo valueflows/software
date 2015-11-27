@@ -1,0 +1,15 @@
+{
+	"valuable": [
+		{
+			"url": "http://allmende.io/",
+			"icon": "https://d3n0h4ojrl591n.cloudfront.net/agreements/500875/logos/a45cf857-2976-40f7-9639-7490e6626d73-favicon_1024.png",
+			"icon_bg": "#476998",
+			"title": "allmende.io",
+			"title_color": "#c9d7e6",
+			"policyURL": "https://hypothes.is/a/hl93mpSnR-2_uH4YiVjwow",
+			"description": "communication infrastructure for the Commons",
+			"btn_bg": "#4C7CAB",
+			"btn_color": "#153656"
+		}
+	]
+}
