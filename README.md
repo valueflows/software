@@ -1,9 +1,8 @@
-# List of Solid-compliant identity providers
-[![](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
+# List of Solidarity / Next Economy Software
 
 ## Adding your own service
 
-The identity providers list allows public Solid-compliant services to gain some exposure, by making themselves discoverable. The configuration options allows the owner of each service to personalize how their respective card will look like, when applications consume this list. An example of such an app can be found at https://solid.github.io/solid-idps/.
+The software list allows next economy software offerings to gain some exposure, by making themselves discoverable. The configuration options allows the owner of each offering to personalize how their respective card will look like, when applications consume this list. An example of such an app can be found at https://solid.github.io/solid-idps/.
 
 Here are the configuration options:
 
