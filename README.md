@@ -1,6 +1,6 @@
 # List of Solidarity / Next Economy Software
 
-## Adding your own service
+## Adding your own software
 
 The software list allows next economy software offerings to gain some exposure, by making themselves discoverable. The configuration options allows the owner of each offering to personalize how their respective card will look like, when applications consume this list. An example of such an app can be found at https://solid.github.io/solid-idps/.
 
